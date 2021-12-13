@@ -4,4 +4,4 @@ MLP and LDA classifier of the [Dry Beans Dataset](https://archive.ics.uci.edu/ml
 
 ## Training
 
-Run src/script.py from the parent folder. Check the flags.
+Run src/MLP.ipynb.
